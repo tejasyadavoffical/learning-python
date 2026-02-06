@@ -12,4 +12,4 @@
 - Output formatting
 
 ## Goal
-Build 20 Python projects in 30 days.
+Build 8 Python projects in 30 days.
